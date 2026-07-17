@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github_banner.png" alt="Github Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Siddhartha Dubey</h1>
 <h3 align="center">A passionate developer from India and very much interested in coding</h3>
 
