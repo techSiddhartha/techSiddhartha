@@ -17,19 +17,28 @@ I am a dedicated Computer Science student deeply invested in learning the founda
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>**💻 Languages & Logic**</h3>
+    <td width="33%" valign="top">
+      <h3>**🌐 Web Development**</h3>
       <ul>
-        <li><b>Java:</b> Object-Oriented Programming (OOP), Spring Boot Framework</li>
-        <li><b>Python:</b> NumPy, Django Framework, Data Analytics</li>
-        <li><b>C++:</b> Data Structures & Algorithms, Object-Oriented Programming (OOP)</li>
+        <li><b>Frontend:</b> HTML5, CSS3, JavaScript (JS)</li>
+        <li><b>Backend frameworks:</b> Spring Boot Framework (Java), Django Framework (Python)</li>
+        <li><b>Architecture:</b> Full-Stack Web Pipelines</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>**📊 Web & Data Science Foundations**</h3>
+    <td width="33%" valign="top">
+      <h3>**📊 Data Science & Analytics**</h3>
       <ul>
-        <li><b>Web Development:</b> HTML5, CSS3, JavaScript (JS)</li>
-        <li><b>Data & Version Tools:</b> MySQL Databases, Git Version Control</li>
+        <li><b>Core Languages:</b> Python, Java, C++</li>
+        <li><b>Libraries & Tools:</b> NumPy, Data Analysis Libraries</li>
+        <li><b>Algorithms:</b> Data Structures & Algorithmic Problem Solving (OOP)</li>
+      </ul>
+    </td>
+    <td width="34%" valign="top">
+      <h3>**📈 Business Analytics**</h3>
+      <ul>
+        <li><b>Databases:</b> MySQL, Relational Database Management</li>
+        <li><b>Data Strategy:</b> Extracting Insights, Version Management (Git)</li>
+        <li><b>Methodologies:</b> Structured Logic & Analytical Modeling</li>
       </ul>
     </td>
   </tr>
@@ -57,8 +66,8 @@ Below is an automated, real-time overview tracking my academic coding journey, l
 
 | **Platform** | **Skill Practice & Evaluation** |
 | :--- | :--- |
-| **LeetCode Engine** | [Track My Algorithmic Progress & Problem Solving](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/) |
-| **MonkeyType Metrics** | [Track My Keyboarding Accuracy & Coding Velocity](https://monkeytype.com/profile/YOUR_MONKEYTYPE_USERNAME) |
+| **LeetCode Engine** | [Track My Algorithmic Progress & Problem Solving](https://leetcode.com/techSiddhartha) |
+| **MonkeyType Metrics** | [Track My Keyboarding Accuracy & Coding Velocity](https://github.com/techSiddhartha/monkeytype-stats) |
 
 ---
 
@@ -70,10 +79,10 @@ I am always eager to connect with fellow students, mentors, and industry profess
   <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/techSiddhartha" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
