@@ -1,85 +1,55 @@
+# Siddhartha Dubey
+**Software Engineer | Data Scientist & Analytics Specialist**
+
+---
+
+## 💼 Professional Summary
+Result-oriented Software Engineering student with a deep focus on full-stack development, algorithm design, and data science. Proven track record of developing structured, highly efficient systems and analyzing complex datasets to drive insights.
+
+---
+
+## 🛠️ Technical Expertise
+
+### 💻 Core Languages & Logic
+* **Languages:** Java, Python, C++, JavaScript
+* **Methodologies:** Data Structures & Algorithms, Object-Oriented Programming (OOP)
+
+### 📊 Web & Data Architecture
+* **Web Engineering:** HTML5, CSS3, Full-Stack Architecture
+* **Data & Tools:** MySQL, Git Version Control, Data Analytics Pipelines
+
+---
+
+## 📊 Analytics & Profile Performance
+
+Below is an overview of active code metrics, engineering contributions, and language distribution metrics across primary development environments.
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=techSiddhartha&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Profile Metrics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techSiddhartha&layout=compact&theme=default" alt="Language Analytics" />
+</p>
+
+---
+
+## 🎯 Technical Workspaces
+
+| Environment | Metrics & Profile Evaluation |
+| :--- | :--- |
+| **LeetCode Engine** | [Evaluate Algorithmic Achievements & Problem Solving](https://leetcode.com/YOUR_LEETCODE_USERNAME) |
+| **MonkeyType Metrics** | [Evaluate Typing Velocity & Accuracy Repositories](https://github.com/techSiddhartha/monkeytype-stats) |
+
+---
+
+## 🤝 Professional Contact & Verification
+
+For collaboration, professional inquiries, or engineering recruitment:
+
+* **Email:** [your_email@gmail.com](mailto:your_email@gmail.com)
+* **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+* **LeetCode Profile:** [leetcode.com/YOUR_LEETCODE_USERNAME](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+
+---
 <div align="center">
-
-# ⚡ SYSTEM STATUS: ACTIVE | Siddhartha Dubey 🛠️
-### 🌌 Full-Stack Engineer • Data Science & Analytics Enthusiast • Problem Solver
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=%3E_Execute+clean_code.exe;%3E_Parsing+complex_datasets...;%3E_Optimizing_algorithms_100%25;%3E_System_loaded_successfully." alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=techSiddhartha&color=00ff66&style=flat-square&label=TRAFFIC+MONITOR" alt="Profile Views" />
-</p>
-
----
-
+  <small>Profile Repository Traffic Monitor: </small>
+  <img src="https://komarev.com/ghpvc/?username=techSiddhartha&color=blue&style=flat-square&label=TRAFFIC" alt="Visitor Metrics" />
 </div>
-
-## 🌐 Tech Core & Ecosystem Matrix
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 The Compiler (Languages & Logic)</h4>
-      <p><em>Writing high-efficiency, multi-threaded backend architectures.</em></p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 The Pipeline (Web, DB & Analytics)</h4>
-      <p><em>Structuring databases, building interfaces, and querying data.</em></p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📉 Central Command Analytics (Live Metrics)
-
-These live telemetry blocks track repository commits, language deployment, and daily coding velocity automatically:
-
-<p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=techSiddhartha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&edge_flat=false" alt="Siddhartha's Performance Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techSiddhartha&layout=compact&theme=tokyonight&langs_count=6" alt="Data Science Distribution" />
-</p>
-
-### 🔋 Continuous Deployment Log (Current Activity)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techSiddhartha&theme=tokyonight" alt="System Uptime Streak" />
-</p>
-
----
-
-## 🏆 Hacking Sandboxes (Algorithm Engine)
-
-<div align="center">
-
-| ⚡ LeetCode Terminal | 🕹️ Keystroke Optimizer (MonkeyType) |
-| :---: | :---: |
-| <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank"><img src="https://litecode-badge.vercel.app/api/YOUR_LEETCODE_USERNAME?theme=dark" alt="LeetCode Performance" width="360"/></a> | <a href="https://monkeytype.com/profile/YOUR_MONKEYTYPE_USERNAME" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=techSiddhartha&repo=monkeytype-stats&theme=tokyonight" alt="Typing Drills" width="360"/></a> |
-
-</div>
-
----
-
-## 🤝 Establish Connection Protocol
-
-<p align="center">
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/Ping-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Handshake-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/Query-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=80&section=footer" width="100%" alt="System Base Boundary" />
-</p>
