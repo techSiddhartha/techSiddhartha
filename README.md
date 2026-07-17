@@ -20,16 +20,16 @@ I am a dedicated Computer Science student deeply invested in learning the founda
     <td width="50%" valign="top">
       <h3>**💻 Languages & Logic**</h3>
       <ul>
-        <li><b>Java:</b> Object-Oriented Programming (OOP), Spring Boot</li>
-        <li><b>Python:</b> NumPy, Django Framework, Data Analysis</li>
+        <li><b>Java:</b> Object-Oriented Programming (OOP), Spring Boot Framework</li>
+        <li><b>Python:</b> NumPy, Django Framework, Data Analytics</li>
         <li><b>C++:</b> Data Structures & Algorithms, Object-Oriented Programming (OOP)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>**📊 Web & Data Infrastructure**</h3>
+      <h3>**📊 Web & Data Science Foundations**</h3>
       <ul>
         <li><b>Web Development:</b> HTML5, CSS3, JavaScript (JS)</li>
-        <li><b>Data & Architecture:</b> MySQL Databases, Git Version Control</li>
+        <li><b>Data & Version Tools:</b> MySQL Databases, Git Version Control</li>
       </ul>
     </td>
   </tr>
