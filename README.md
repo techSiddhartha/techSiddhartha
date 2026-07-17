@@ -13,23 +13,22 @@ I am a dedicated Computer Science student deeply invested in learning the founda
 
 ---
 
-## **🛠️ Technical & Academic Skill Matrix**
+## **🛠️ Academic & Technical Focus Areas**
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>**💻 Languages & Logic**</h3>
+      <h3>**💻 Languages & Core Logic**</h3>
       <ul>
-        <li><b>Java:</b> Object-Oriented Programming (OOP), Spring Boot Framework</li>
-        <li><b>Python:</b> NumPy, Django Framework, Data Analytics</li>
-        <li><b>C++:</b> Data Structures & Algorithms, Object-Oriented Programming (OOP)</li>
+        <li><b>Languages Learning:</b> Java, Python, C++, JavaScript</li>
+        <li><b>Core Subjects:</b> Data Structures & Algorithms, Object-Oriented Programming (OOP)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>**📊 Web & Data Science Foundations**</h3>
       <ul>
-        <li><b>Web Development:</b> HTML5, CSS3, JavaScript (JS)</li>
-        <li><b>Data & Version Tools:</b> MySQL Databases, Git Version Control</li>
+        <li><b>Web Development:</b> HTML5, CSS3, Frontend & Backend Architecture</li>
+        <li><b>Data & Version Tools:</b> MySQL Databases, Git Version Control, Data Analytics</li>
       </ul>
     </td>
   </tr>
