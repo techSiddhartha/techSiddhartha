@@ -8,28 +8,38 @@
 
 </div>
 
-## **🎓 Student Profile**
+<h2 align="center"><font color="#00E5FF">🎓 Student Profile</font></h2>
+
 I am a dedicated Computer Science student deeply invested in learning the foundations of modern computing. My current focus centers on mastering full-stack software development pipelines, core algorithm design, and using data science methodologies to analyze complex datasets.
 
 ---
 
-## **🛠️ Technical & Academic Skill Matrix**
+<h2 align="center"><font color="#FF007F">🛠️ Technical & Academic Skill Matrix</font></h2>
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>**💻 Languages & Logic**</h3>
+    <td width="33%" valign="top">
+      <h3 align="center"><font color="#00FF66">🌐 Web Development</font></h3>
       <ul>
-        <li><b>Java:</b> Object-Oriented Programming (OOP), Spring Boot Framework</li>
-        <li><b>Python:</b> NumPy, Django Framework, Data Analytics</li>
-        <li><b>C++:</b> Data Structures & Algorithms, Object-Oriented Programming (OOP)</li>
+        <li><b>Frontend:</b> HTML5, CSS3, JavaScript (JS)</li>
+        <li><b>Backend frameworks:</b> Spring Boot Framework (Java), Django Framework (Python)</li>
+        <li><b>Architecture:</b> Full-Stack Web Pipelines</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>**📊 Web & Data Science Foundations**</h3>
+    <td width="33%" valign="top">
+      <h3 align="center"><font color="#00FF66">📊 Data Science & Analytics</font></h3>
       <ul>
-        <li><b>Web Development:</b> HTML5, CSS3, JavaScript (JS)</li>
-        <li><b>Data & Version Tools:</b> MySQL Databases, Git Version Control</li>
+        <li><b>Core Languages:</b> Python, Java, C++</li>
+        <li><b>Libraries & Tools:</b> NumPy, Data Analysis Libraries</li>
+        <li><b>Algorithms:</b> Data Structures & Algorithmic Problem Solving (OOP)</li>
+      </ul>
+    </td>
+    <td width="34%" valign="top">
+      <h3 align="center"><font color="#00FF66">📈 Business Analytics</font></h3>
+      <ul>
+        <li><b>Databases:</b> MySQL, Relational Database Management</li>
+        <li><b>Data Strategy:</b> Extracting Insights, Version Management (Git)</li>
+        <li><b>Methodologies:</b> Structured Logic & Analytical Modeling</li>
       </ul>
     </td>
   </tr>
@@ -37,43 +47,43 @@ I am a dedicated Computer Science student deeply invested in learning the founda
 
 ---
 
-## **📊 Learning Metrics & Live Analytics**
+<h2 align="center"><font color="#FF9900">📊 Learning Metrics & Live Analytics</font></h2>
 
-Below is an automated, real-time overview tracking my academic coding journey, language distribution, and open-source project contributions.
+<p align="center">Below is an automated, real-time overview tracking my academic coding journey, language distribution, and open-source project contributions.</p>
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=techSiddhartha&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Profile Metrics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techSiddhartha&layout=compact&theme=default" alt="Language Analytics" />
 </p>
 
-### **🔥 Coding Velocity & Consistency**
+<h3 align="center"><font color="#FF3333">🔥 Coding Velocity & Consistency</font></h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techSiddhartha&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
 
-## **🎯 Academic Workspaces**
+<h2 align="center"><font color="#CC66FF">🎯 Academic Workspaces</font></h2>
 
 | **Platform** | **Skill Practice & Evaluation** |
 | :--- | :--- |
-| **LeetCode Engine** | [Track My Algorithmic Progress & Problem Solving](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/) |
-| **MonkeyType Metrics** | [Track My Keyboarding Accuracy & Coding Velocity](https://monkeytype.com/profile/YOUR_MONKEYTYPE_USERNAME) |
+| **LeetCode Engine** | [Track My Algorithmic Progress & Problem Solving](https://leetcode.com/u/techSiddhartha/) |
+| **MonkeyType Metrics** | [Track My Keyboarding Accuracy & Coding Velocity](https://monkeytype.com/profile/techSiddhartha) |
 
 ---
 
-## **🤝 Connect & Collaborate**
+<h2 align="center"><font color="#00E5FF">🤝 Connect & Collaborate</font></h2>
 
-I am always eager to connect with fellow students, mentors, and industry professionals for learning opportunities, open-source collaboration, or internships. Let's build something impactful together:
+<p align="center">I am always eager to connect with fellow students, mentors, and industry professionals for learning opportunities, open-source collaboration, or internships. Let's build something impactful together:</p>
 
-<p align="left">
+<p align="center">
   <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/u/techSiddhartha/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
