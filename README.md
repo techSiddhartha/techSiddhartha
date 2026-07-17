@@ -8,29 +8,80 @@
 
 </div>
 
-<h2 align="center"><font color="#00E5FF">🎓 Student Profile</font></h2>
-
+## **🎓 Student Profile**
 I am a dedicated Computer Science student deeply invested in learning the foundations of modern computing. My current focus centers on mastering full-stack software development pipelines, core algorithm design, and using data science methodologies to analyze complex datasets.
 
 ---
 
-<h2 align="center"><font color="#FF007F">🛠️ Technical & Academic Skill Matrix</font></h2>
+## **🛠️ Technical & Academic Skill Matrix**
 
-<p align="center"><i>Click on any directory node below to expand the tree branches.</i></p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>**💻 Languages & Logic**</h3>
+      <ul>
+        <li><b>Java:</b> Object-Oriented Programming (OOP), Spring Boot Framework</li>
+        <li><b>Python:</b> NumPy, Django Framework, Data Analytics</li>
+        <li><b>C++:</b> Data Structures & Algorithms, Object-Oriented Programming (OOP)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>**📊 Web & Data Science Foundations**</h3>
+      <ul>
+        <li><b>Web Development:</b> HTML5, CSS3, JavaScript (JS)</li>
+        <li><b>Data & Version Tools:</b> MySQL Databases, Git Version Control</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-```text
-📂 techSiddhartha
-┃
-┣━━ 🌐 Web Development
-┃   ┣━━ 📄 Frontend Tools & Frameworks
-┃   ┗━━ 📄 Backend Frameworks
-┃
-┣━━ 📊 Data Science & Analytics
-┃   ┣━━ 📄 Core Languages
-┃   ┣━━ 📄 Libraries & Tools
-┃   ┗━━ 📄 Algorithms
-┃
-┗━━ 📈 Business Analytics
-    ┣━━ 📄 Databases
-    ┣━━ 📄 Data Strategy
-    ┗━━ 📄 Methodologies
+---
+
+## **📊 Learning Metrics & Live Analytics**
+
+Below is an automated, real-time overview tracking my academic coding journey, language distribution, and open-source project contributions.
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=techSiddhartha&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Profile Metrics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techSiddhartha&layout=compact&theme=default" alt="Language Analytics" />
+</p>
+
+### **🔥 Coding Velocity & Consistency**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techSiddhartha&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+## **🎯 Academic Workspaces**
+
+| **Platform** | **Skill Practice & Evaluation** |
+| :--- | :--- |
+| **LeetCode Engine** | [Track My Algorithmic Progress & Problem Solving](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/) |
+| **MonkeyType Metrics** | [Track My Keyboarding Accuracy & Coding Velocity](https://monkeytype.com/profile/YOUR_MONKEYTYPE_USERNAME) |
+
+---
+
+## **🤝 Connect & Collaborate**
+
+I am always eager to connect with fellow students, mentors, and industry professionals for learning opportunities, open-source collaboration, or internships. Let's build something impactful together:
+
+<p align="left">
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+---
+<div align="center">
+  <small>**Profile Repository Traffic Monitor:** </small>  
+  <br/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=techSiddhartha&color=blue&style=flat-square&label=TRAFFIC" alt="Visitor Metrics" />
+</div>
